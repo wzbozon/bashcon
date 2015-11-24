@@ -14,9 +14,9 @@ android {
     signingConfigs {
         release {
             storeFile file("myreleasekey.keystore")
-            storePassword "Wh1tesox"
+            storePassword "***"
             keyAlias "Alwawee"
-            keyPassword "Wh1tesox"
+            keyPassword "***"
         }
     }
     buildTypes {
